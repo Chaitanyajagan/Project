@@ -38,6 +38,6 @@ Project/
 ## ▶️ Running Tests
 
 ```bash
-  # Run the chatbot (example with Streamlit or CLI)
+  # Run the chatbot (example with Streamlit or CLI) on bash
   streamlit run app.py
 ```
