@@ -1,3 +1,10 @@
+
+## 🚀 About Me
+Motivated and detail-oriented Computer Science undergraduate specializing in Artificial Intelligence and MachineLearning. Adept in Python programming, data structures, and algorithmic problem-solving. Experienced in applying AI/ML concepts to real-world projects. Actively seeking entry-level opportunities in AI Engineering,Machine Learning, and Python Development roles to contribute technical and analytical skills in a collaborative, fast-paced environment.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyajagan)
+
 # 🤖 Chatbot Based on RAG
 A Retrieval-Augmented Generation (RAG) based chatbot that retrieves relevant context from documents and generates human-like responses using HuggingFace LLMs.
 
@@ -9,4 +16,12 @@ This chatbot integrates document retrieval and language generation to provide me
 - 🧠 Uses HuggingFace LLMs for answer generation
 - 🔍 Retrieves relevant context from local files
 - 🛠️ Simple backend in Python
-- 💬 Outputs responses to a text file '(output.txt)'
+- 💬 Outputs responses to a text file ` (output.txt)`
+
+
+## 🛠 Tech Stack
+- Backend: Python
+- Frontend: Streamlit
+- LLM Integration: HuggingFace Transformers
+- Knowledge Source: ` knowledge_base.csv `
+
