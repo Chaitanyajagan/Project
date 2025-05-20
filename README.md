@@ -24,6 +24,7 @@ This chatbot integrates document retrieval and language generation to provide me
 - Frontend: Streamlit
 - LLM Integration: HuggingFace Transformers
 - Knowledge Source: ` knowledge_base.csv `
+- Code Editor: Jupyter Notebook and VS Code
 
 ## 🗂️ Project Structure
 ```bash
