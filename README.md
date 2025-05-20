@@ -1,4 +1,4 @@
-
+# Hi, I'm Chaitanya Jagan! 👋
 ## 🚀 About Me
 Motivated and detail-oriented Computer Science undergraduate specializing in Artificial Intelligence and MachineLearning. Adept in Python programming, data structures, and algorithmic problem-solving. Experienced in applying AI/ML concepts to real-world projects. Actively seeking entry-level opportunities in AI Engineering,Machine Learning, and Python Development roles to contribute technical and analytical skills in a collaborative, fast-paced environment.
 
@@ -24,6 +24,16 @@ This chatbot integrates document retrieval and language generation to provide me
 - Frontend: Streamlit
 - LLM Integration: HuggingFace Transformers
 - Knowledge Source: ` knowledge_base.csv `
+
+## 🗂️ Project Structure
+```bash
+Project/
+│
+├── Project.ipynb           # Jupyter Notebook version (for testing/debugging)
+├── app.py                  # Main Python script to run the chatbot
+├── knowledge_base.csv      # Source knowledge base (Q&A or documents)
+├── output.txt              # File where chatbot responses are saved
+```
 
 ## ▶️ Running Tests
 
