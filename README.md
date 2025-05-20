@@ -16,7 +16,7 @@ This chatbot integrates document retrieval and language generation to provide me
 - 🧠 Uses HuggingFace LLMs for answer generation
 - 🔍 Retrieves relevant context from local files
 - 🛠️ Simple backend in Python
-- 💬 Outputs responses to a text file ` (output.txt)`
+- 💬 Outputs responses to a text file `(output.txt)`
 
 
 ## 🛠 Tech Stack
@@ -25,3 +25,9 @@ This chatbot integrates document retrieval and language generation to provide me
 - LLM Integration: HuggingFace Transformers
 - Knowledge Source: ` knowledge_base.csv `
 
+## ▶️ Running Tests
+
+```bash
+  # Run the chatbot (example with Streamlit or CLI)
+  streamlit run app.py
+```
