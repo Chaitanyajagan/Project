@@ -1,0 +1,14 @@
+YOU : What is LangChain?
+BOT : LangChain is a framework for developing applications powered by LLMs.
+
+YOU : What is RAG in NLP?
+BOT : RAG stands for Retrieval-Augmented Generation, combining retrieval and generation to improve accuracy.
+
+YOU : How does FAISS work?
+BOT : FAISS is a library for efficient similarity search and clustering of dense vectors.
+
+YOU : What is OpenAI's GPT?
+BOT : GPT is a generative language model developed by OpenAI.
+
+YOU : What is Streamlit used for?
+BOT : Streamlit is an open-source app framework for Machine Learning and Data Science projects.

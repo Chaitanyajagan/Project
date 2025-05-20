@@ -1,0 +1,6 @@
+Question,Answer
+What is LangChain?,LangChain is a framework for developing applications powered by LLMs.
+What is RAG in NLP?,"RAG stands for Retrieval-Augmented Generation, combining retrieval and generation to improve accuracy."
+How does FAISS work?,FAISS is a library for efficient similarity search and clustering of dense vectors.
+What is OpenAI's GPT?,GPT is a generative language model developed by OpenAI.
+What is Streamlit used for?,Streamlit is an open-source app framework for Machine Learning and Data Science projects.
